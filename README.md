@@ -38,7 +38,7 @@ Enable the Extension: Once installed, enable the extension in your browser setti
 
 Simply browse the web as usual. The ad blocker will automatically detect and block ads on web pages, providing you with a cleaner and faster browsing experience.
 
-**#Contributing**
+**Contributing**
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
